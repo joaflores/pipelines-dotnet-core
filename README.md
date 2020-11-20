@@ -1,4 +1,4 @@
-[!Build Status](https://dev.azure.com/jvillacorta/MyTestProject1/_apis/build/status/joaflores.pipelines-dotnet-core?branchName=master)
+[[!Build Status](https://dev.azure.com/jvillacorta/MyTestProject1/_apis/build/status/joaflores.pipelines-dotnet-core?branchName=master)]
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
